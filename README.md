@@ -21,7 +21,8 @@ Whether you're a casual listener or a data-driven music enthusiast, this tool he
 - "Your Top 5" Leaderboards: See which songs, albums, and artists you can’t stop replaying.
 - Listening Timeline: Track how your habits change by hour, day, or month.
 - Platform Breakdown: Discover whether you’re a mobile listener, desktop streamer, or smart speaker fan.
-- 
+
+  
 📈 Behavioral Analytics
 - Skip Rate Analysis: How often do you bail on a song before it ends?
 - Shuffle vs. Intentional Plays: Measure spontaneity in your listening.
