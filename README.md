@@ -2,6 +2,8 @@
 A dynamic Power BI dashboard that transforms your Spotify streaming history into actionable insights—revealing your music habits, favorite artists, and hidden listening trends.
 
 https://github.com/ankur-9/Spotify_Dashboard/blob/main/Spotify.png
+https://github.com/ankur-9/Spotify_Dashboard/blob/main/Spotify.png?raw=true![image](https://github.com/user-attachments/assets/405336fd-9307-43e5-b720-8a2a1c34c6f1)
+
 
 🌟 Project Overview
 Ever wondered when you listen to music the most? Which artists dominate your playlists? Or how often you skip songs? This Spotify Analysis Dashboard answers these questions—and more—by turning raw streaming data into a visually rich, interactive story.
